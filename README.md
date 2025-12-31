@@ -101,6 +101,24 @@ This project implements a scalable REST API with authentication and role-based a
 - Caching can be added with Redis
 - Load balancing support with multiple instances
 
+## 📄 API Documentation
+Swagger UI available at:
+http://127.0.0.1:8000/swagger/
+
+## Screenshots
+### Swagger API
+![Swagger](screenshots/swagger.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+
 ## Technologies Used
 - Backend: Django, Django REST Framework, Simple JWT, DRF-YASG
 - Frontend: React, Axios, React Router
